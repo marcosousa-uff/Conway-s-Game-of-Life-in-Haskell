@@ -1,0 +1,11 @@
+para abrir o progrma:
+abrir prompt de comando na pasta do arquivo
+digitar ghci
+digitar :l main.hs
+digitar main
+
+dentro do programa:
+inserir quantidade de linhas
+inserir quantidade de colunas
+inserir a tabela no padrão de listas de listas: [["v","z","m"],["v","z","m"]]
+inserir o numero de iterações
